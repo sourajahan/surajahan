@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1120&height=250&section=header&text=Hello!%20I'm%20Sura&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1120&height=250&section=header&text=Hello!%20I'm%20Soura&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -37,6 +37,6 @@ I am a Software Engineer with a deep passion for **System Architecture**. Rather
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajahan&show_icons=true&theme=radical&hide_border=true&bg_color=0b1120&title_color=61DAFB&text_color=ffffff" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajahan&layout=compact&theme=radical&hide_border=true&bg_color=0b1120&title_color=61DAFB&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sourajahan&show_icons=true&theme=radical&hide_border=true&bg_color=0b1120&title_color=61DAFB&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourajahan&layout=compact&theme=radical&hide_border=true&bg_color=0b1120&title_color=61DAFB&text_color=ffffff" />
 </div>
