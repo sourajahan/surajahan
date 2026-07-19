@@ -1,42 +1,37 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1120&height=250&section=header&text=Hello!%20I'm%20Soura&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</div>
+ # Hello, I'm Soura Jahan
 
-<div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Architecture+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</div>
+Software Engineering student at Shiraz University, documenting my journey into **Enterprise System Architecture**.
 
-<br>
-
-### 👩‍💻 About My Journey
-I am a Software Engineer with a deep passion for **System Architecture**. Rather than claiming to know it all, I am actively dedicated to learning and building. I am currently challenging myself through a comprehensive, step-by-step architectural roadmap to bridge the gap between theoretical system design and practical coding.
-
-- 🚀 **Current Challenge:** Working through a **52-Step Enterprise Architecture Roadmap**, documenting my progress from foundational setup to component-based frontends.
-- 📚 **Learning Focus:** Exploring Virtual DOM mechanics (React Fiber), distributed systems, and best practices in code architecture.
-- 💡 **Philosophy:** *"Great architecture is a journey of continuous learning and refactoring."*
+I believe that becoming a proficient engineer requires more than just writing code; it requires a deep understanding of how systems are designed, integrated, and scaled. This repository acts as my **Personal Engineering Knowledge Base**, where I systematically explore and document the lifecycle of software development—from foundational network protocols to complex enterprise ecosystems.
 
 ---
 
-### 🛠️ Technologies I'm Exploring & Using
+### 📘 The Engineering Knowledge Base
+My work is divided into two primary exploration tracks, totaling over 130+ modules of technical research and architectural analysis:
 
-**Architecture & Core:**
-![System Design](https://img.shields.io/badge/System_Design-FF4154?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-044F88?style=for-the-badge&logo=cisco&logoColor=white)
+#### 1. Software Engineering Fundamentals (52-Step Roadmap)
+*   **Focus**: Building a robust foundation in software engineering, including system design, distributed systems, and technical documentation.
+*   **Key Topics**: Networking, OS Internals, Clean Code, API Design, and Software Ethics.
 
-**Frontend Engine:**
-![React](https://img.shields.io/badge/React_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Virtual DOM](https://img.shields.io/badge/Virtual_DOM-00C7B7?style=for-the-badge&logo=espressif&logoColor=white)
-
-**Data & Infrastructure:**
-![Relational Databases](https://img.shields.io/badge/Relational_Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 2. Enterprise Architecture Playbook (85-Step Roadmap)
+*   **Focus**: Analyzing large-scale enterprise environments and how they communicate.
+*   **Key Topics**: SAP (ERP/HANA), Salesforce (PaaS/CRM), IBM BPM, Oracle Systems, and Cloud-native operations.
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠 Technical Pillars
+I approach software development through these core pillars:
+*   **System Design**: Designing decoupled architectures using Event-Driven patterns and Microservices.
+*   **Integration**: Bridging the gap between legacy ERPs and modern cloud-native microservices.
+*   **Automation**: Leveraging CI/CD, Infrastructure as Code (IaC), and automated testing to ensure system reliability.
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sourajahan&show_icons=true&theme=radical&hide_border=true&bg_color=0b1120&title_color=61DAFB&text_color=ffffff" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourajahan&layout=compact&theme=radical&hide_border=true&bg_color=0b1120&title_color=61DAFB&text_color=ffffff" />
-</div>
+### 📈 Current Focus
+I am currently refining my understanding of **Enterprise Integration Patterns** and **Cloud-Native Architecture**. My goal is to synthesize these theoretical concepts into production-ready code samples.
+
+---
+
+### 📬 Connect
+I am always open to discussing architectural patterns, software engineering best practices, or collaborative projects. 
+
+*   [LinkedIn](YOUR-LINK) | [Email](mailto:YOUR-EMAIL)
+*   *“Great architecture is a continuous journey of learning, refactoring, and adaptation.”*
