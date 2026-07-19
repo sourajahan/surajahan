@@ -11,12 +11,17 @@
 
 ---
 
-### 🚀 About My Journey
-I am a Software Engineering student at <b>Shiraz University</b>, documenting my journey into <b>Enterprise System Architecture</b>. I don't just write code; I design systems.
+### 🚀 My Engineering Knowledge Bases
+I maintain two major repositories documenting my engineering journey, from fundamental design to enterprise-grade integrations:
+
+| Repository | Focus Area | Scope |
+| :--- | :--- | :--- |
+| [**Enterprise-System-Architecture**](https://github.com/sourajahan/Enterprise-System-Architecture) | Engineering Fundamentals | 52-Step Roadmap |
+| [**Architecture-Playbook**](https://github.com/sourajahan/Architecture-Playbook) | Enterprise Ecosystems | 85-Step Roadmap |
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,25 +33,14 @@ I am a Software Engineering student at <b>Shiraz University</b>, documenting my 
 
 ---
 
-### 📈 GitHub Stats (Live Data)
+### 📈 GitHub Stats (Live)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourajahan&show_icons=true&theme=dracula&count_private=true" alt="Soura's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourajahan&layout=compact&theme=dracula" alt="Soura's Top Languages" />
 </div>
 
 ---
 
-### 📘 The 137+ Architecture Playbook
-My repository is a massive knowledge base covering the lifecycle of modern enterprise engineering.
-
-| Phase | Focus Area |
-| :--- | :--- |
-| **1-52** | Software Engineering Fundamentals & Networking |
-| **53-137** | Enterprise Ecosystems (SAP, Salesforce, Oracle, IBM) |
-
----
-
-### 📬 Connect with me
+### 📬 Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/soura-jahan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
